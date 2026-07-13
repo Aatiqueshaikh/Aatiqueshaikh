@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Web Developer and UI/UX Designer turning ideas into interactive websites | Currently exploring Full-Stack Development 💻🔥
+Motivated Software Developer & UI/UX Designer passionate about building web experiences that look sharp, perform fast, and make sense to users.
 
 
 ## 🌐 Socials:
