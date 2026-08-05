@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Aatique Shaikh <br>Software Developer & UI/UX Designer passionate about building web experiences that look sharp, perform fast, and make sense to users.
+Hey, I'm Aatique Shaikh <br>Software Developer & Data Analyst Building Intelligent, Data-Driven Web Experiences.
 
 
 ## 🌐 Socials:
