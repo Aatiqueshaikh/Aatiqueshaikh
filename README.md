@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Aatique Shaikh <br>Software Developer & Data Analyst Building Intelligent, Data-Driven Web Experiences.
+Hey, I'm Aatique Shaikh <br>Software Developer & Data Analyst Turning Data into Web Products
 
 
 ## 🌐 Socials:
